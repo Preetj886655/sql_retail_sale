@@ -5,7 +5,7 @@
 
 **Project Title**: Retail Sales Analysis  
 **Level**: Beginner  
-**Database**: `p1_retail_db`
+**Database**: `sql_project_retail_sales`
 
 
 ## Objectives
